@@ -44,6 +44,12 @@ app.MapGet("/weatherforecast", () =>
 .WithOpenApi(); // Adiciona suporte ao OpenAPI
 */
 app.MapGet(pattern:"/Teste", () => "Ola mundo");
+Routes.mainRoute.PersonRoutes(app);// acessa o mainRoutes.cs chamando a classe "mainRoute"
+//depois o método/função PersonRoutes ^
+
+Routes.mainRoute.ServiceRoute(app);
+
+
 
 app.Run();
 

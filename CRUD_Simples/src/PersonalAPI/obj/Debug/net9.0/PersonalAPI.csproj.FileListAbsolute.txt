@@ -34,3 +34,40 @@ D:\Códigos- Programação\C#\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\ref\
 D:\Códigos- Programação\C#\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Códigos- Programação\C#\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Códigos- Programação\C#\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\appsettings.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\PersonalAPI.staticwebassets.endpoints.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\PersonalAPI.exe
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\PersonalAPI.deps.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\PersonalAPI.runtimeconfig.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\PersonalAPI.dll
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\PersonalAPI.pdb
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.csproj.AssemblyReference.cache
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.AssemblyInfoInputs.cache
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.AssemblyInfo.cs
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.csproj.CoreCompileInputs.cache
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.sourcelink.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\scopedcss\bundle\PersonalAPI.styles.css
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\staticwebassets\msbuild.PersonalAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\staticwebassets\msbuild.PersonalAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.PersonalAPI.props
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PersonalAPI.props
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PersonalAPI.props
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\staticwebassets.pack.json
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\Personal.5712E3E8.Up2Date
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.dll
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\refint\PersonalAPI.dll
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.pdb
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\PersonalAPI.genruntimeconfig.cache
+D:\.Documentos Importantes\.Github repository's\API-CRUD\CRUD_Simples\src\PersonalAPI\obj\Debug\net9.0\ref\PersonalAPI.dll

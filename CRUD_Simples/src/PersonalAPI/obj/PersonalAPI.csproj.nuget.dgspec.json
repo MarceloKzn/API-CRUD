@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Códigos- Programação\\C#\\CRUD_Simples\\src\\PersonalAPI\\PersonalAPI.csproj": {}
+    "D:\\.Documentos Importantes\\.Github repository's\\API-CRUD\\CRUD_Simples\\src\\PersonalAPI\\PersonalAPI.csproj": {}
   },
   "projects": {
-    "D:\\Códigos- Programação\\C#\\CRUD_Simples\\src\\PersonalAPI\\PersonalAPI.csproj": {
+    "D:\\.Documentos Importantes\\.Github repository's\\API-CRUD\\CRUD_Simples\\src\\PersonalAPI\\PersonalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Códigos- Programação\\C#\\CRUD_Simples\\src\\PersonalAPI\\PersonalAPI.csproj",
+        "projectUniqueName": "D:\\.Documentos Importantes\\.Github repository's\\API-CRUD\\CRUD_Simples\\src\\PersonalAPI\\PersonalAPI.csproj",
         "projectName": "PersonalAPI",
-        "projectPath": "D:\\Códigos- Programação\\C#\\CRUD_Simples\\src\\PersonalAPI\\PersonalAPI.csproj",
+        "projectPath": "D:\\.Documentos Importantes\\.Github repository's\\API-CRUD\\CRUD_Simples\\src\\PersonalAPI\\PersonalAPI.csproj",
         "packagesPath": "C:\\Users\\marcelo\\.nuget\\packages\\",
-        "outputPath": "D:\\Códigos- Programação\\C#\\CRUD_Simples\\src\\PersonalAPI\\obj\\",
+        "outputPath": "D:\\.Documentos Importantes\\.Github repository's\\API-CRUD\\CRUD_Simples\\src\\PersonalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Programas Favoritos\\tools(visual studio)\\NuGetPackages"
